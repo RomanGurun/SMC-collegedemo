@@ -1,1 +1,1 @@
-# SMC-collegedemo
+# SMC-collegeDemo
